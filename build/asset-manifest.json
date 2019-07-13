@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/monsters-mythical-faces/static/css/main.3d803ded.chunk.css",
+    "main.js": "/monsters-mythical-faces/static/js/main.7afd3aa0.chunk.js",
+    "main.js.map": "/monsters-mythical-faces/static/js/main.7afd3aa0.chunk.js.map",
+    "runtime~main.js": "/monsters-mythical-faces/static/js/runtime~main.94679a66.js",
+    "runtime~main.js.map": "/monsters-mythical-faces/static/js/runtime~main.94679a66.js.map",
+    "static/js/2.65aa1cca.chunk.js": "/monsters-mythical-faces/static/js/2.65aa1cca.chunk.js",
+    "static/js/2.65aa1cca.chunk.js.map": "/monsters-mythical-faces/static/js/2.65aa1cca.chunk.js.map",
+    "index.html": "/monsters-mythical-faces/index.html",
+    "precache-manifest.afad88fd20088d4a7fa6034bf05b4ffa.js": "/monsters-mythical-faces/precache-manifest.afad88fd20088d4a7fa6034bf05b4ffa.js",
+    "service-worker.js": "/monsters-mythical-faces/service-worker.js",
+    "static/css/main.3d803ded.chunk.css.map": "/monsters-mythical-faces/static/css/main.3d803ded.chunk.css.map"
+  }
+}
